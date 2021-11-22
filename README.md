@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elizanroach
-- 👀 I’m interested in UX and Web Design
-- 🌱 I’m currently learning HTML and JavaScript
-- 📫 How to reach me ...
+- 👀 I’m interested in UX Design and Front-End Web Development
+- 🌱 I’m currently learning HTML and CSS
+- 📫 How to reach me - 
   shoot me a message via LinkedIn (linkedin.com/in/elizaroach) or email (elizaroach.business@gmail.com)
 
 <!---
